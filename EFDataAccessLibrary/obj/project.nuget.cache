@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YgkQG+7s9L+s60qqF2RBkMX7sPP3UCUOgU/1Hfucdh4Qq7kXk96pwzLC+k2Aa8au041zE+CLoeTGBsba72CbmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DS077375\\Documents\\DevAcademy\\Tutorial\\EFDemoApp\\EFDataAccessLibrary\\EFDataAccessLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DS077375\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DS077375\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
