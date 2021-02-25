@@ -4,7 +4,7 @@ using System.Text;
 
 namespace EFDataAccessLibrary.Models
 {
-    class Address
+    public class Address
     {
         public int Id { get; set; }
         public string StreetAddress { get; set; }
