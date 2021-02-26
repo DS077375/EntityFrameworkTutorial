@@ -20,7 +20,7 @@ namespace EFDataAccessLibrary.Migrations
                 {
                     table.PrimaryKey("PK_People", x => x.Id);
                 });
-
+            
             migrationBuilder.CreateTable(
                 name: "Addresses",
                 columns: table => new
@@ -41,7 +41,7 @@ namespace EFDataAccessLibrary.Migrations
                         column: x => x.PersonId,
                         principalTable: "People",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Restrict);  // Can't delete person if they have an address
                 });
 
             migrationBuilder.CreateTable(

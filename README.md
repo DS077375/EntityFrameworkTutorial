@@ -3,4 +3,5 @@ The following is a tutorial on enity framework following this [tutorial](https:/
 
 
 ## Add Migration
-`Add-Migration <NameOfMigration>`
+- Go to package manager console
+- Type: `Add-Migration <NameOfMigration>`
