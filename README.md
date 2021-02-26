@@ -3,4 +3,4 @@ The following is a tutorial on enity framework following this [tutorial](https:/
 
 
 ## Add Migration
-`Add-Migration <NameOfMigration>
+`Add-Migration <NameOfMigration>`
