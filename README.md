@@ -4,4 +4,5 @@ The following is a tutorial on enity framework following this [tutorial](https:/
 
 ## Add Migration
 - Go to package manager console
-- Type: `Add-Migration <NameOfMigration>`
+- Add Migrations (changes to database): `Add-Migration <NameOfMigration>`
+- Create/Build Database: `Update-Database`
