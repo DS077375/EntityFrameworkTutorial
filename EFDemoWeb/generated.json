@@ -1,0 +1,26 @@
+[
+    {
+        "FirstName" : "Strickland",
+        "LastName" : "Boone",
+        "Age" : 33,
+        "Addresses ": [
+            {
+                "StreetAddress" : "Grattan Street",
+                "City" : "Martinsville",
+                "State": "South Dakota",
+                "ZipCode" : "15740-0000"
+            },
+            {
+                "StreetAddress" : "Address 2",
+                "City" : "City",
+                "State": "State",
+                "ZipCode" : "15740-0000"
+            }
+        ],
+        "EmailAddresses" : [
+            {
+                "EmailAddress" : "haydenmcdonal@urbanshee.com"
+            }
+        ]
+    }
+]
